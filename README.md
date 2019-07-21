@@ -1,15 +1,17 @@
 ## Machine Learning & AI pour la physique et les physicisnes
 
-Cours donné a Paris 6
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Il s’agit d’un cours d’introduction à l’apprentissage automatique, pour les etudiants de physique en Master a Sorbonne Université, qui met l’accent sur les exercices pratiques mais aussi une 
+une compréhension théorique. Le cours combinera (et alternera) la méthodologie avec les bases théoriques et les aspects pratiques de calcul avec des exercices en python, en utilisant scikit-learn et tensorflow (avec keras).
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Les sujets discutés seront parmis les suivants:
 
-```markdown
-Syntax highlighted code block
+* Théorie statistique: maximum de vraisemblance, Bayes, VC et convergence uniforme
+* Apprentissage supervisé: Régression linéaire, Ridge, Lasso, Données de grandes dimensions, Méthodes du noyau, Boosting
+* Apprentissage en profondeur: réseau multicouche, conv-net, encodeur automatique
+* Apprentissage non supervisé: modèles de mélange, PCA et PCA à noyau
+* Notions de base sur les modèles génératifs et l'apprentissage par renforcement
 
 # Header 1
 ## Header 2
