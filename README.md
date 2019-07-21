@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Machine Learning & AI pour la physique et les physicisnes
 
-You can use the [editor on GitHub](https://github.com/krzakala/ml_P6_2019_web/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Cours donné a Paris 6
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
