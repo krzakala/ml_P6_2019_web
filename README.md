@@ -10,13 +10,18 @@ Les sujets discutés seront parmis les suivants:
 * Apprentissage non supervisé: modèles de mélange, PCA et PCA à noyau
 * Notions de base sur les modèles génératifs et l'apprentissage par renforcement
 
-### Liste des sujets de TPS
+### Liste des sujets de TPs
 
-* Lecture 1: TBA
-* Lecture 2: TBA
+* TP0 : (Re-)introduction à Python
+* TP1 : Knn et apprentissage supervisé
+* TP2 : Un peu de probabilité, et maximum de vraissemblance
+* TP3 : Modeles linéaires (i)
+* TP4 : Modeles linéaires (ii) 
+* TP5 : Methodes a noyeau
 
 ### Ou et quand?
 
+TBA
 
 ### Quelques references
 
