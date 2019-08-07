@@ -13,8 +13,8 @@ Les sujets discutés seront parmis les suivants:
 ### Liste des sujets de TPs
 
 * TP0 : (Re-)introduction à Python,[[notebooks]](https://github.com/krzakala/ml_P6_2019_web/tree/master/tp0) 
-* TP1 : Knn et apprentissage supervisé,[[notebooks]]https://github.com/krzakala/ml_P6_2019_web/tree/master/tp1) 
-* TP2 : Un peu de probabilité, et maximum de vraissemblance,[[notebooks]]https://github.com/krzakala/ml_P6_2019_web/tree/master/tp2) 
+* TP1 : Knn et apprentissage supervisé,[[notebooks]](https://github.com/krzakala/ml_P6_2019_web/tree/master/tp1) 
+* TP2 : Un peu de probabilité, et maximum de vraissemblance,[[notebooks]](https://github.com/krzakala/ml_P6_2019_web/tree/master/tp2) 
 * TP3 : Modeles linéaires (i)
 * TP4 : Modeles linéaires (ii) 
 * TP5 : Methodes a noyeau
