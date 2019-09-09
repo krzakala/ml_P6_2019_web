@@ -10,6 +10,10 @@ Les sujets discutés seront parmis les suivants:
 * Apprentissage non supervisé: modèles de mélange, PCA et PCA à noyau
 * Notions de base sur les modèles génératifs et l'apprentissage par renforcement
 
+### Listes des cours:
+
+* 0: Rappels de probabilité [[overleaf link]](https://www.overleaf.com/3638456727yxkqjqwncrtq)
+
 ### Liste des sujets de TPs
 
 * TP0 : (Re-)introduction à Python,[[notebooks]](https://github.com/krzakala/ml_P6_2019_web/tree/master/tp0) 
