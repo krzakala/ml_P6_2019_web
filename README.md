@@ -21,7 +21,7 @@ Les sujets discutés seront parmis les suivants:
 
 ### Ou et quand?
 
-TBA
+MU4PY115; Cours Lundi de 15h30 a 18H30, Tour 24-34 salle 301 premier cours le 9/9); TP Vendredi de 14h a 17h, Tour 23-22 1er étage salles informatique (premier TP le 27/9)
 
 ### Quelques references
 
@@ -30,7 +30,7 @@ TBA
 * Another great reference is <a href="https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020">Machine Learning:A Probabilistic Perspective<a/> by Kevin P. Murphy.
 * Deep learning is well covered in this new book:
 <a href="http://d2l.ai/">Dive into Deep Learning<a/> by A. Zhang, Z. Lipton, M. Li, A.J. Smola. 
-* Un recent, et excellent, livre de reference en Francais: <a href="https://www.amazon.fr/Introduction-Machine-Learning-Chloé-Agathe-Azencott/dp/2100780808">Introduction au Machine Learning </a> par Chloé-Agathe Azencott. 
+* Un recent, et excellent, livre de reference en Francais sur l'apprentissage: <a href="https://www.amazon.fr/Introduction-Machine-Learning-Chloé-Agathe-Azencott/dp/2100780808">Introduction au Machine Learning </a> par Chloé-Agathe Azencott. 
 * A very nice review on <a href="https://arxiv.org/abs/1903.10563"> machine learning for physics </a>.
 * An introduction to <a href="https://arxiv.org/abs/1803.08823">machine learning for physicists</a>.
   
