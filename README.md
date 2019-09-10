@@ -12,11 +12,13 @@ Les sujets discutés seront parmis les suivants:
 
 ### Listes des cours:
 
-* 0: Rappels de probabilité [[overleaf link]](https://www.overleaf.com/3638456727yxkqjqwncrtq)
+* 1: Rappels de probabilité [[notes de cours]](https://www.overleaf.com/3638456727yxkqjqwncrtq)
+* 1: Introduction au ML avec la Méthode des k plus proches voisins
+ [[overleaf link]](https://www.overleaf.com/4147779945phwxvgfydpzn)
 
 ### Liste des sujets de TPs
 
-* TP0 : (Re-)introduction à Python,[[notebooks]](https://github.com/krzakala/ml_P6_2019_web/tree/master/tp0) 
+* TP0 (A preparer seul): (Re-)introduction à Python,[[notebooks]](https://github.com/krzakala/ml_P6_2019_web/tree/master/tp0) 
 * TP1 : Knn et apprentissage supervisé,[[notebooks]](https://github.com/krzakala/ml_P6_2019_web/tree/master/tp1) 
 * TP2 : Un peu de probabilité, et maximum de vraissemblance,[[notebooks]](https://github.com/krzakala/ml_P6_2019_web/tree/master/tp2) 
 * TP3 : Modeles linéaires (i)
