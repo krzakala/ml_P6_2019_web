@@ -13,9 +13,11 @@ Les sujets discutés seront parmis les suivants:
 ### Listes des cours:
 
 * 1: Rappels de probabilité [[notes de cours]](https://www.overleaf.com/3638456727yxkqjqwncrtq)
-* 1: Introduction au ML avec la Méthode des k plus proches voisins
+* 2: Introduction au ML avec la Méthode des k plus proches voisins
  [[overleaf link]](https://www.overleaf.com/4147779945phwxvgfydpzn)
-
+* 3: Modeles lineaires et la Méthode des moindres carrés
+ [[overleaf link]](https://www.overleaf.com/4586468226wbybnjdtjctt)
+ 
 ### Liste des sujets de TPs
 
 * TP0 (A preparer seul): (Re-)introduction à Python,[[notebooks]](https://github.com/krzakala/ml_P6_2019_web/tree/master/tp0) 
