@@ -17,15 +17,15 @@ Les sujets discutés seront parmis les suivants:
  [[overleaf link]](https://www.overleaf.com/4147779945phwxvgfydpzn)
 * 3: Modeles lineaires et la Méthode des moindres carrés
  [[overleaf link]](https://www.overleaf.com/4586468226wbybnjdtjctt)
+ * 4: Regression Ridge et Lasso
  
 ### Liste des sujets de TPs
 
-* TP0 (A preparer seul): (Re-)introduction à Python,[[notebooks]](https://github.com/krzakala/ml_P6_2019_web/tree/master/tp0) 
+* TP0 (A préparer seul): (Re-)introduction à Python,[[notebooks]](https://github.com/krzakala/ml_P6_2019_web/tree/master/tp0) 
 * TP1 : Knn et apprentissage supervisé,[[notebooks]](https://github.com/krzakala/ml_P6_2019_web/tree/master/tp1) 
-* TP2 : Un peu de probabilité, et maximum de vraissemblance,[[notebooks]](https://github.com/krzakala/ml_P6_2019_web/tree/master/tp2) 
-* TP3 : Modeles linéaires (i)
-* TP4 : Modeles linéaires (ii) 
-* TP5 : Methodes a noyeau
+* TP2 : Modeles linéaires, Ridge et Lasso ,[[notebooks]](https://github.com/krzakala/ml_P6_2019_web/tree/master/tp2) 
+* TP3 : Le Maximum de vraissemblance,[[notebooks]](https://github.com/krzakala/ml_P6_2019_web/tree/master/tp3) 
+* TP4 : Descentes de gradients, et regression logistique
 
 ### Ou et quand?
 
