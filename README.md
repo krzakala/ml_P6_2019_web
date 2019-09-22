@@ -17,18 +17,17 @@ Les sujets discutés seront parmis les suivants:
  [[notes de cours/overleaf]](https://www.overleaf.com/4147779945phwxvgfydpzn)
 * 3: Modeles lineaires et la Méthode des moindres carrés
  [[notes de cours/overleaf]](https://www.overleaf.com/4586468226wbybnjdtjctt)
- * 4: Regression Ridge [[notes de cours/overleaf]]( https://www.overleaf.com/4149859249qtpfdpvmptrv)
-  * 5: Lasso   [[notes de cours/overleaf]](https://www.overleaf.com/7891741836tbrvnzchwnmt)
-
-
+ * 4: Regression Ridge et Lasso [[notes de cours/overleaf]]( https://www.overleaf.com/4149859249qtpfdpvmptrv)
+ * 5: Le Maximum de vraissemblance (et la regression logistique)   [[notes de cours/overleaf]](https://www.overleaf.com/7891741836tbrvnzchwnmt)
+ * 6: Fonction de cout et machine à support de vecteur
+ * 7: Methodes du noyeau (Kernel)
  
 ### Liste des sujets de TPs
 
 * TP0 (A préparer seul): (Re-)introduction à Python,[[notebooks]](https://github.com/krzakala/ml_P6_2019_web/tree/master/tp0) 
 * TP1 : Knn et apprentissage supervisé,[[notebooks]](https://github.com/krzakala/ml_P6_2019_web/tree/master/tp1) 
 * TP2 : Modeles linéaires, Ridge et Lasso ,[[notebooks]](https://github.com/krzakala/ml_P6_2019_web/tree/master/tp2) 
-* TP3 : Le Maximum de vraissemblance,[[notebooks]](https://github.com/krzakala/ml_P6_2019_web/tree/master/tp3) 
-* TP4 : Descentes de gradients, et regression logistique
+* TP3 : Le Maximum de vraissemblance  et regression logistique,[[notebooks]](https://github.com/krzakala/ml_P6_2019_web/tree/master/tp3) 
 
 ### Ou et quand?
 
