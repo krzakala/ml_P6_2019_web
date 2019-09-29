@@ -19,9 +19,10 @@ Les sujets discutés seront parmis les suivants:
  [[notes de cours/overleaf]](https://www.overleaf.com/4586468226wbybnjdtjctt)
  * 4: Regression Ridge et Lasso [[notes de cours/overleaf]]( https://www.overleaf.com/4149859249qtpfdpvmptrv)
  * 5: Le Maximum de vraissemblance (et la regression logistique)   [[notes de cours/overleaf]](https://www.overleaf.com/7891741836tbrvnzchwnmt)
- * 6: Fonction de cout et machine à support de vecteur
+ * 6: Fonctions de cout et machine à support de vecteurs  [[notes de cours/overleaf]](https://www.overleaf.com/9298446659jwypydjqqnpr)
  * 7: Methodes du noyeau (Kernel)
- 
+ * 8: Reseau de neuronnes (NeuralNets)
+
 ### Liste des sujets de TPs
 
 * TP0 (A préparer seul): (Re-)introduction à Python,[[notebooks]](https://github.com/krzakala/ml_P6_2019_web/tree/master/tp0) 
