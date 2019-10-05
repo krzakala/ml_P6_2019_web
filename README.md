@@ -4,10 +4,10 @@ une compréhension théorique. Le cours combinera (et alternera) la méthodologi
 
 Les sujets discutés seront parmis les suivants:
 
-* Théorie statistique: maximum de vraisemblance, Bayes, VC et convergence uniforme
+* Théorie statistique: Propbilité, maximum de vraisemblance, Bayes, VC et convergence uniforme.
 * Apprentissage supervisé: Régression linéaire, Ridge, Lasso, Données de grandes dimensions, Méthodes du noyau, Boosting
-* Apprentissage en profondeur: réseau multicouche, conv-net, encodeur automatique
-* Apprentissage non supervisé: modèles de mélange, PCA et PCA à noyau
+* Apprentissage en profondeur: réseau multicouche, conv-net, auto-encodeur 
+* Apprentissage non supervisé: PCA et PCA à noyau, modele Gaussiens
 * Notions de base sur les modèles génératifs et l'apprentissage par renforcement
 
 ### Listes des cours:
@@ -20,15 +20,16 @@ Les sujets discutés seront parmis les suivants:
  * 4: Regression Ridge et Lasso [[notes de cours/overleaf]]( https://www.overleaf.com/4149859249qtpfdpvmptrv)
  * 5: Le Maximum de vraissemblance (et la regression logistique)   [[notes de cours/overleaf]](https://www.overleaf.com/7891741836tbrvnzchwnmt)
  * 6: Fonctions de cout et machine à support de vecteurs  [[notes de cours/overleaf]](https://www.overleaf.com/9298446659jwypydjqqnpr)
- * 7: Methodes du noyeau (Kernel)
- * 8: Reseau de neuronnes (NeuralNets)
+ * 7: Reseau de neuronnes (NeuralNets)
+ * 8: Descente de gradients et variantes
+
 
 ### Liste des sujets de TPs
 
 * TP0 (A préparer seul): (Re-)introduction à Python,[[notebooks]](https://github.com/krzakala/ml_P6_2019_web/tree/master/tp0) 
 * TP1 : Knn et apprentissage supervisé,[[notebooks]](https://github.com/krzakala/ml_P6_2019_web/tree/master/tp1) 
 * TP2 : Modeles linéaires, Ridge et Lasso ,[[notebooks]](https://github.com/krzakala/ml_P6_2019_web/tree/master/tp2) 
-* TP3 : Le Maximum de vraissemblance  et regression logistique,[[notebooks]](https://github.com/krzakala/ml_P6_2019_web/tree/master/tp3) 
+* TP3 : Introduction aux reseaux de neuronnes,[[notebooks]](https://github.com/krzakala/ml_P6_2019_web/tree/master/tp3) 
 
 ### Ou et quand?
 
@@ -36,14 +37,13 @@ MU4PY115; Cours Lundi de 15h30 a 18H30, Tour 24-34 salle 301 premier cours le 9/
 
 ### Quelques references
 
-* A good book for probability and statistics, accessible to students, is Larry A. Wasserman 's <a href="https://www.ic.unicamp.br/~wainer/cursos/1s2013/ml/livro.pdf">All of Statistics</a>
 * A good introduction to statistical learning is given in <a href="https://web.stanford.edu/~hastie/ElemStatLearn/">Elements of Statistical Learning </a> by Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie.
 * Another great reference is <a href="https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020">Machine Learning:A Probabilistic Perspective<a/> by Kevin P. Murphy.
 * Deep learning is well covered in this new book:
 <a href="http://d2l.ai/">Dive into Deep Learning<a/> by A. Zhang, Z. Lipton, M. Li, A.J. Smola. 
 * Un recent, et excellent, livre de reference en Francais sur l'apprentissage: <a href="https://www.amazon.fr/Introduction-Machine-Learning-Chloé-Agathe-Azencott/dp/2100780808">Introduction au Machine Learning </a> par Chloé-Agathe Azencott. 
 * A very nice review on <a href="https://arxiv.org/abs/1903.10563"> machine learning for physics </a>.
-* An introduction to <a href="https://arxiv.org/abs/1803.08823">machine learning for physicists</a>.
+* An introduction to <a href="https://arxiv.org/abs/1803.08823">machine learning for physicists</a>, that was a very inspiring source of exercices and notebooks!
   
 ### Besoin d'un GPU chez vous?
 
