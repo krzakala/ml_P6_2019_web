@@ -20,8 +20,7 @@ Les sujets discutés seront parmis les suivants:
  * 4: Regression Ridge et Lasso [[notes de cours/overleaf]]( https://www.overleaf.com/4149859249qtpfdpvmptrv)
  * 5: Le Maximum de vraissemblance (et la regression logistique)   [[notes de cours/overleaf]](https://www.overleaf.com/7891741836tbrvnzchwnmt)
  * 6: Fonctions de cout et machine à support de vecteurs  [[notes de cours/overleaf]](https://www.overleaf.com/9298446659jwypydjqqnpr)
- * 7: Reseau de neuronnes (NeuralNets)
- * 8: Descente de gradients et variantes
+ * 7: Reseau de neuronnes (NeuralNets) et Gradient Descent [[notes de cours/overleaf]](https://www.overleaf.com/1823859833szrhhwcvnfhg)
 
 
 ### Liste des sujets de TPs
