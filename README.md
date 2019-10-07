@@ -21,6 +21,7 @@ Les sujets discutés seront parmis les suivants:
  * 5: Le Maximum de vraissemblance (et la regression logistique)   [[notes de cours/overleaf]](https://www.overleaf.com/7891741836tbrvnzchwnmt)
  * 6: Fonctions de cout et machine à support de vecteurs  [[notes de cours/overleaf]](https://www.overleaf.com/9298446659jwypydjqqnpr)
  * 7: Reseau de neuronnes (NeuralNets) et Gradient Descent [[notes de cours/overleaf]](https://www.overleaf.com/1823859833szrhhwcvnfhg)
+*Remarque: On trouvera une description pedagogiques des algorithmes [ici (en anglais)](http://ruder.io/optimizing-gradient-descent/). On peut retrouver la derivation de Backpropagation (la retropropagation) sur [wikipedia](https://fr.wikipedia.org/wiki/R%C3%A9tropropagation_du_gradient )*
 
 
 ### Liste des sujets de TPs
