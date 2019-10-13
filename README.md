@@ -30,6 +30,8 @@ Les sujets discutés seront parmis les suivants:
 * TP1 : Knn et apprentissage supervisé,[[notebooks]](https://github.com/krzakala/ml_P6_2019_web/tree/master/tp1) 
 * TP2 : Modeles linéaires, Ridge et Lasso ,[[notebooks]](https://github.com/krzakala/ml_P6_2019_web/tree/master/tp2) 
 * TP3 : Introduction aux reseaux de neuronnes,[[notebooks]](https://github.com/krzakala/ml_P6_2019_web/tree/master/tp3) 
+* TP4 : CNN: convolution is all you need! Introduction aux reseaux de neuronnes,[[notebooks]](https://github.com/krzakala/ml_P6_2019_web/tree/master/tp4)
+
 
 ### Ou et quand?
 
