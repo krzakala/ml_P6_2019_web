@@ -54,7 +54,12 @@ MU4PY115; Cours Lundi de 15h30 a 18H30, Tour 24-34 salle 301 premier cours le 9/
 
 Vous souhaitez essayer l'apprentissage en profondeur mais vous n'avez pas de GPU? Ou vous ne voulez pas installer de logiciel sur votre ordinateur? Une bonne solution consiste à utiliser la plate-forme (gratuite) Collaboratory de Google: elle ne nécessite aucun matériel ou logiciel spécifique! Par exemple bous pouvew utiliser ici un <a href="https://colab.research.google.com/drive/1pISitRt5YYElECn-KWqBQK5qpEgeStYS">example d'un reseau de neuronne avec GPU</a>. 
 
- 
+### Quelques examples de notebooks
+
+<a href="https://colab.research.google.com/drive/1pISitRt5YYElECn-KWqBQK5qpEgeStYS">CNN</a>,<a href="https://colab.research.google.com/drive/10bb5vbdcxl7YnRFfoNmlJzoEkymg1IkI">Cartpole avec policy gradient</a>,  <a href="https://colab.research.google.com/drive/11D_GNs-jNZ5MrrFvcxuoDEP672bPmXro">here</a> Q-Learning <a href="https://colab.research.google.com/drive/1fKbvcZxJp8GJ225k7RdsC79x8HLdkw4q">Autoencoder</a>. 
+
+
+
 ### Many thanks to...
 
  ![http://www.sorbonne-universite.fr/en](http://www.sorbonne-universite.fr/themes/sorbonne/logo.svg)
