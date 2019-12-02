@@ -56,7 +56,7 @@ Vous souhaitez essayer l'apprentissage en profondeur mais vous n'avez pas de GPU
 
 ### Quelques examples de notebooks
 
-<a href="https://colab.research.google.com/drive/1pISitRt5YYElECn-KWqBQK5qpEgeStYS">CNN</a>,<a href="https://colab.research.google.com/drive/10bb5vbdcxl7YnRFfoNmlJzoEkymg1IkI">Cartpole avec policy gradient</a>,  <a href="https://colab.research.google.com/drive/11D_GNs-jNZ5MrrFvcxuoDEP672bPmXro">here</a> Q-Learning <a href="https://colab.research.google.com/drive/1fKbvcZxJp8GJ225k7RdsC79x8HLdkw4q">Autoencoder</a>. 
+<a href="https://colab.research.google.com/drive/1pISitRt5YYElECn-KWqBQK5qpEgeStYS">CNN</a>,<a href="https://colab.research.google.com/drive/10bb5vbdcxl7YnRFfoNmlJzoEkymg1IkI">Q-Learning FrozenLake </a>, <a href="https://colab.research.google.com/drive/11D_GNs-jNZ5MrrFvcxuoDEP672bPmXro"> Auto-encoder </a><a href="https://colab.research.google.com/drive/1fKbvcZxJp8GJ225k7RdsC79x8HLdkw4q">Cartpole avec policy gradient</a>. 
 
 
 
