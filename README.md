@@ -23,6 +23,8 @@ Les sujets discutés seront parmis les suivants:
  * 7: Réseaux de neuronnes (NeuralNets) et Gradient Descent [[notes de cours/overleaf]](https://www.overleaf.com/1823859833szrhhwcvnfhg)
 *Remarque: On trouvera une description pedagogiques des algorithmes [ici (en anglais)](http://ruder.io/optimizing-gradient-descent/). On peut retrouver la derivation de Backpropagation (la retropropagation) sur [wikipedia](https://fr.wikipedia.org/wiki/R%C3%A9tropropagation_du_gradient )*
  * 8: Réseaux de neuronnes en pratique (et CNN) [[notes de cours/overleaf]](https://www.overleaf.com/6351687566rkfhnhfdmsqc)
+ * 9: Methodes d'ensembles, Kernels et Series temporelles  [[notes de cours]](B4Last.pdf)
+ * 10: Apprentissage par renforcement  [[notes de cours]](Last.pdf)
 
 
 ### Liste des sujets de TPs
